@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Tema 3 Android</string>
-    
+
+    <string name="book_title">Title</string>
+    <string name="book_author">Author</string>
+    <string name="book_description">Description</string>
+
+    <string name="add_update">ADD/UPDATE</string>
+
 </resources>
